@@ -2,3 +2,4 @@ git branch BSCCSIT_Lab_Test
 git checkout BSCCSIT_Lab_Test
 git push origin BSCCSIT_Lab_Test
 git commit -m "Initial Commit"
+git commit -m "Second Commit"
